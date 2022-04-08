@@ -1,0 +1,1554 @@
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2022-03-23 23:00:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:00:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:00:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:00 error: uncaughtException: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+Error: [1;91merror[0m: [1mEnvironment variable not found: DATABASE_URL.[0m
+  [1;94m-->[0m  [4mschema.prisma:10[0m
+[1;94m   | [0m
+[1;94m 9 | [0m  provider = "mysql"
+[1;94m10 | [0m  url      = [1;91menv("DATABASE_URL")[0m
+[1;94m   | [0m
+
+Validation Error Count: 1
+    at Object.loadEngine (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35591:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.instantiateLibrary (D:\Jay\node-setup\node-setup-master\node_modules\@prisma\client\runtime\index.js:35520:5)
+2022-03-23 23:00:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:00:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:00:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1[0m:[93m30[0m - [91merror[0m[90m TS2307: [0mCannot find module '@sendgrid/helpers/classes' or its corresponding type declarations.
+
+[7m1[0m import { EmailAddress } from "@sendgrid/helpers/classes";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m2[0m:[93m20[0m - [91merror[0m[90m TS2307: [0mCannot find module 'moment' or its corresponding type declarations.
+
+[7m2[0m import moment from "moment";
+[7m [0m [91m                   ~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m416[0m:[93m87[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m416[0m                                                     href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                                      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m57[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                        ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m492[0m:[93m79[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m492[0m                                             href="${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}"
+[7m   [0m [91m                                                                              ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m58[0m - [91merror[0m[90m TS2339: [0mProperty 'NRG_FRONTED_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                         ~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m504[0m:[93m80[0m - [91merror[0m[90m TS2339: [0mProperty 'RESET_PASSWORD_URL' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m504[0m                                                   >${ENV.NRG_FRONTED_URL}${ENV.RESET_PASSWORD_URL}?userId=${args.userId}&nonce=${args.nonce}</a
+[7m   [0m [91m                                                                               ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m996[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'SENDGRID_SENDER_ADDRESS' does not exist on type '{ NODE_ENV: string | undefined; APP_ROOT: string; PORT: string | undefined; API_ROOT: string; }'.
+
+[7m996[0m       ENV.SENDGRID_SENDER_ADDRESS,
+[7m   [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1002[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1002[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m1012[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m1012[0m     await client.email.create({
+[7m    [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:01:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:01:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:01:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m28[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m28[0m       html1
+[7m  [0m [91m      ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m31[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m34[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m34[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m37[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m37[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m41[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m41[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m44[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'html1'.
+
+[7m44[0m         content: html1,
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m48[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m48[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m38[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m38[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m49[0m:[93m20[0m - [91merror[0m[90m TS2304: [0mCannot find name 'moment'.
+
+[7m49[0m         createdAt: moment().format(),
+[7m  [0m [91m                   ~~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:02:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-03-23 23:03:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m32[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m32[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+[96msrc/subscribers/set-reset-password.subscriber.ts[0m:[93m42[0m:[93m18[0m - [91merror[0m[90m TS2339: [0mProperty 'email' does not exist on type 'PrismaClient<PrismaClientOptions, never, RejectOnNotFound | RejectPerOperation | undefined>'.
+
+[7m42[0m     await client.email.create({
+[7m  [0m [91m                 ~~~~~[0m
+
+    at createTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:820:12)
+    at reportTSError (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:824:19)
+    at getOutput (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1014:36)
+    at Object.compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1322:43)
+    at Module.m._compile (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1454:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Jay\node-setup\node-setup-master\node_modules\ts-node\src\index.ts:1458:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)

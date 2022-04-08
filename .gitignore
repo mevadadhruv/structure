@@ -1,0 +1,28 @@
+# NPM
+node_modules/
+!node_modules/@prisma/client
+package-lock.json
+# Logs
+npm-debug.log*
+
+# Depedency directories
+node_modules/
+
+# jest coverage output
+coverage
+
+# dotenv configuration files
+.env
+
+# OSX
+.DS_Store
+*.swp
+
+#IntelliJ
+.idea/
+reports/
+
+#VSCode
+.vscode
+
+**/.terraform
